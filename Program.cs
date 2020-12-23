@@ -14,6 +14,7 @@ namespace devops2
         public static void Main(string[] args)
         {
             // Comment added
+            // Comment 2 added
             CreateHostBuilder(args).Build().Run();
         }
 
